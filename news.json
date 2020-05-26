@@ -70,81 +70,81 @@
          {
             "brands":[
                { 
-                  "opt_0":"All brands" 
+                  "opt":"All brands" 
                },
                {
-                  "opt_1":"Berkeley"
+                  "opt":"Berkeley"
                },
                {
-                  "opt_2":"Berkeley Foundation"
+                  "opt":"Berkeley Foundation"
                },
                {
-                  "opt_3":"Berkeley Group"
+                  "opt":"Berkeley Group"
                },
                {
-                  "opt_4":"Berkeley Modular"
+                  "opt":"Berkeley Modular"
                },
                {
-                  "opt_5":"St Edward"
+                  "opt":"St Edward"
                },
                {
-                  "opt_6":"St George"
+                  "opt":"St George"
                },
                {
-                  "opt_7":"St James"
+                  "opt":"St James"
                },
                {
-                  "opt_8":"St Joseph"
+                  "opt":"St Joseph"
                },
                {
-                  "opt_9":"St William"
+                  "opt":"St William"
                }
             ]
          },
          {
             "categories":[
                {
-                  "opt_0":"All categories"
+                  "opt":"All categories"
                },
                {
-                  "opt_1":"Awards"
+                  "opt":"Awards"
                },
                {
-                  "opt_2":"Climate change"
+                  "opt":"Climate change"
                },
                {
-                  "opt_3":"Community"
+                  "opt":"Community"
                },
                {
-                  "opt_4":"Customer Experience"
+                  "opt":"Customer Experience"
                },
                {
-                  "opt_5":"Nature recovery"
+                  "opt":"Nature recovery"
                },
                {
-                  "opt_6":"Skills"
+                  "opt":"Skills"
                },
                {
-                  "opt_7":"Smart construction"
+                  "opt":"Smart construction"
                }
             ]
          },
          {
             "types": [
                {
-                  "opt_0":"All types"
+                  "opt":"All types"
                },
                {
-                  "opt_1":"Blogs"
+                  "opt":"Blogs"
                },  
                {
-                  "opt_2":"Features"
+                  "opt":"Features"
                }, 
                {
-                  "opt_3":"News"
+                  "opt":"News"
                }, 
                {
-                  "opt_4":"Videos"
+                  "opt":"Videos"
                } 
             ]
          }
