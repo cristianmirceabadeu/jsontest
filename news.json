@@ -4,8 +4,8 @@
    "data":{
       "newsItems":[
          {
-            "title":"Acclaimed sculptor unveils new public art at 250 City Road",
-            "imageUrl":"/sitecore/shell/-/media/Feature/NewsAndInsights/News/public-art-at-250-City-Road.ashx",
+            "title":"Local children brighten Hartland Village with Rainbows For Hope",
+            "imageUrl":"https://cdn.berkeleygroup.co.uk/showmedia.cfm?iMediaID=54054&resolution=2560&dpr=1",
             "date":"25th March 2020",
             "description":"Art and architecture came together at 250 City Road in March, at the unveiling of the first in a series of sculptures to stand in the new public plaza.",
             "contentType":"Videos",
@@ -13,9 +13,9 @@
             "linkHref":"http://dev.berkeley.local/News-and-Insights/News/2020/Copy-of-New-public-art-250-city-road"
          },
          {
-            "title":"Acclaimed sculptor unveils new public art at 250 City Road",
-            "imageUrl":"/sitecore/shell/-/media/Feature/NewsAndInsights/News/public-art-at-250-City-Road.ashx",
-            "date":"25th March 2020",
+            "title":"Berkeley celebrates 5th year of Outstanding customer satisfaction award",
+            "imageUrl":"https://cdn.berkeleygroup.co.uk/showmedia.cfm?iMediaID=53750&resolution=2560&dpr=1",
+            "date":"26th March 2020",
             "description":"Art and architecture came together at 250 City Road in March, at the unveiling of the first in a series of sculptures to stand in the new public plaza.",
             "contentType":"News",
             "linkText":"Read More",
@@ -23,43 +23,43 @@
          },
          {
             "title":"Acclaimed sculptor unveils new public art at 250 City Road",
-            "imageUrl":"/sitecore/shell/-/media/Feature/NewsAndInsights/News/public-art-at-250-City-Road.ashx",
-            "date":"25th March 2020",
+            "imageUrl":"https://cdn.berkeleygroup.co.uk/showmedia.cfm?iMediaID=52622&resolution=2560&dpr=1",
+            "date":"27th March 2020",
             "description":"Art and architecture came together at 250 City Road in March, at the unveiling of the first in a series of sculptures to stand in the new public plaza.",
             "contentType":"News",
             "linkText":"Read More",
             "linkHref":"http://dev.berkeley.local/News-and-Insights/News/2020/Copy-of-New-public-art-250-city-road-2"
          },
          {
-            "title":"Acclaimed sculptor unveils new public art at 250 City Road",
-            "imageUrl":"/sitecore/shell/-/media/Feature/NewsAndInsights/News/public-art-at-250-City-Road.ashx",
-            "date":"25th March 2020",
+            "title":"Creating communities: lessons from Woodhurst Park",
+            "imageUrl":"https://cdn.berkeleygroup.co.uk/showmedia.cfm?iMediaID=54054&resolution=2560&dpr=1",
+            "date":"03rd April 2020",
             "description":"Art and architecture came together at 250 City Road in March, at the unveiling of the first in a series of sculptures to stand in the new public plaza.",
             "contentType":"Features",
             "linkText":"Read More",
             "linkHref":"http://dev.berkeley.local/News-and-Insights/News/2020/Copy-of-New-public-art-250-city-road-3"
          },
          {
-            "title":"Acclaimed sculptor unveils new public art at 250 City Road",
-            "imageUrl":"/sitecore/shell/-/media/Feature/NewsAndInsights/News/public-art-at-250-City-Road.ashx",
-            "date":"25th March 2020",
+            "title":"Community Garden takes shape in Oval",
+            "imageUrl":"https://cdn.berkeleygroup.co.uk/showmedia.cfm?iMediaID=53750&resolution=2560&dpr=1",
+            "date":"05th April 2020",
             "description":"Art and architecture came together at 250 City Road in March, at the unveiling of the first in a series of sculptures to stand in the new public plaza.",
             "contentType":"Features",
             "linkText":"Read More",
             "linkHref":"http://dev.berkeley.local/News-and-Insights/News/2020/Copy-of-New-public-art-250-city-road-4"
          },
          {
-            "title":"Acclaimed sculptor unveils new public art at 250 City Road",
-            "imageUrl":"/sitecore/shell/-/media/Feature/NewsAndInsights/News/public-art-at-250-City-Road.ashx",
-            "date":"25th March 2020",
+            "title":"Treble win at Mayor's Building London Awards",
+            "imageUrl":"https://cdn.berkeleygroup.co.uk/showmedia.cfm?iMediaID=52622&resolution=2560&dpr=1",
+            "date":"21st April 2020",
             "description":"Art and architecture came together at 250 City Road in March, at the unveiling of the first in a series of sculptures to stand in the new public plaza.",
             "linkText":"Read More",
             "linkHref":"http://dev.berkeley.local/News-and-Insights/News/2020/New-public-art-250-city-road"
          },
          {
-            "title":"NewsArticle",
-            "imageUrl":"/sitecore/shell/-/media/Feature/NewsAndInsights/News/public-art-at-250-City-Road.ashx",
-            "date":"01st January 0001",
+            "title":"Berkeley Group leads sector in climate action",
+            "imageUrl":"https://cdn.berkeleygroup.co.uk/showmedia.cfm?iMediaID=52622&resolution=2560&dpr=1",
+            "date":"15th May 2020",
             "description":"",
             "contentType":"Blogs",
             "linkText":"Read More",
