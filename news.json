@@ -66,7 +66,49 @@
             "linkHref":"http://dev.berkeley.local/News-and-Insights/News/2020/NewsArticle"
          }
       ],
+      "newsFilters":[
+         {
+            "brands":[
+               {
+                  "opt_0":"All brands",
+                  "opt_1":"Berkeley",
+                  "opt_2":"Berkeley Foundation",
+                  "opt_3":"Berkeley Group",
+                  "opt_4":"Berkeley Modular",
+                  "opt_5":"St Edward",
+                  "opt_6":"St George",
+                  "opt_7":"St James",
+                  "opt_8":"St Joseph",
+                  "opt_9":"St William"
+               }
+            ],
+            "categories":[
+               {
+                  "opt_0":"All categories",
+                  "opt_1":"Awards",
+                  "opt_2":"Climate change",
+                  "opt_3":"Community",
+                  "opt_4":"Customer Experience",
+                  "opt_5":"Nature recovery",
+                  "opt_6":"Skills",
+                  "opt_7":"Smart construction"
+               }
+            ],
+            "types": [
+               {
+                  "opt_0":"All types",
+                  "opt_1":"Blogs",
+                  "opt_2":"Features",
+                  "opt_3":"News",
+                  "opt_4":"Videos"
+               }
+            ]
+         }
+      ],
       "totalNoOfItems":7,
+      "currentBrand": 0,
+      "currentCategory": 0,
+      "currentType": 0,
       "selectedPage":0
    }
 }
