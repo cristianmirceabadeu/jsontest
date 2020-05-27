@@ -241,9 +241,10 @@
          }
       ],
       "totalNoOfItems":12,
-      "currentBrand": 0,
-      "currentCategory": 0,
-      "currentType": 0,
+      "currentBrand": 1,
+      "currentCategory": 2,
+      "currentType": 3,
+      "currentSearch": "",
       "selectedPage":0
    }
 }
