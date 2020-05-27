@@ -64,6 +64,50 @@
             "contentType":"Blogs",
             "linkText":"Read More",
             "linkHref":"http://dev.berkeley.local/News-and-Insights/News/2020/NewsArticle"
+         },
+         {
+            "title":"Join the Berkeley Group Sales Academy",
+            "imageUrl":"https://cdn.berkeleygroup.co.uk/showmedia.cfm?iMediaID=50464&resolution=2560&dpr=1",
+            "date":"11th May 2020",
+            "description":"Art and architecture came together at 250 City Road in March, at the unveiling of the first in a series of sculptures to stand in the new public plaza. Art and architecture came together at 250 City Road in March, at the unveiling of the first in a series of sculptures to stand in the new public plaza.",
+            "contentType":"News",
+            "linkText":"Read More",
+            "linkHref":"http://dev.berkeley.local/News-and-Insights/News/2020/Copy-of-New-public-art-250-city-road-2"
+         },
+         {
+            "title":"Natural landscape taking shape at Hartland Village",
+            "imageUrl":"https://cdn.berkeleygroup.co.uk/showmedia.cfm?iMediaID=50287&resolution=2560&dpr=1",
+            "date":"12th May 2020",
+            "description":"Art and architecture came together at 250 City Road in March, at the unveiling of the first in a series of sculptures to stand in the new public plaza.",
+            "contentType":"Features",
+            "linkText":"Read More",
+            "linkHref":"http://dev.berkeley.local/News-and-Insights/News/2020/Copy-of-New-public-art-250-city-road-3"
+         },
+         {
+            "title":"Berkeley to adopt RoSPA's Safer by Design framework",
+            "imageUrl":"https://cdn.berkeleygroup.co.uk/showmedia.cfm?iMediaID=53750&resolution=2560&dpr=1",
+            "date":"05th April 2020",
+            "description":"Art and architecture came together at 250 City Road in March, at the unveiling of the first in a series of sculptures to stand in the new public plaza.",
+            "contentType":"Features",
+            "linkText":"Read More",
+            "linkHref":"http://dev.berkeley.local/News-and-Insights/News/2020/Copy-of-New-public-art-250-city-road-4"
+         },
+         {
+            "title":"Tweseldown School leads The Big Climate Fight Back at Hartland Village",
+            "imageUrl":"https://cdn.berkeleygroup.co.uk/showmedia.cfm?iMediaID=52622&resolution=2560&dpr=1",
+            "date":"21st April 2020",
+            "description":"Art and architecture came together at 250 City Road in March, at the unveiling of the first in a series of sculptures to stand in the new public plaza.",
+            "linkText":"Read More",
+            "linkHref":"http://dev.berkeley.local/News-and-Insights/News/2020/New-public-art-250-city-road"
+         },
+         {
+            "title":"Meet the winner of Residential Construction Professional of the Year",
+            "imageUrl":"https://cdn.berkeleygroup.co.uk/showmedia.cfm?iMediaID=52622&resolution=2560&dpr=1",
+            "date":"15th May 2020",
+            "description":"",
+            "contentType":"Blogs",
+            "linkText":"Read More",
+            "linkHref":"http://dev.berkeley.local/News-and-Insights/News/2020/NewsArticle"
          }
       ],
       "newsFilters":[
