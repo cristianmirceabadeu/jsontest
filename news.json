@@ -112,85 +112,83 @@
       ],
       "newsFilters":[
          {
-            "brands":[
+            "all":[
                { 
                   "opt":"All brands" 
                },
+               { 
+                  "opt":"All news" 
+               }
+            ],
+            "brands":[
                {
-                  "optGroupBrands":"Brand News",
-                  "options": [
-                     {
-                        "opt":"News from Berkeley"
-                     },
-                     {
-                        "opt":"News from Berkeley Foundation"
-                     },
-                     {
-                        "opt":"News from Berkeley Group"
-                     },
-                     {
-                        "opt":"News from Berkeley Modular"
-                     },
-                     {
-                        "opt":"News from St Edward"
-                     },
-                     {
-                        "opt":"News from St George"
-                     },
-                     {
-                        "opt":"News from St James"
-                     },
-                     {
-                        "opt":"News from St Joseph"
-                     },
-                     {
-                        "opt":"News from St William"
-                     }
-                  ]
+                  "opt":"News from Berkeley"
                },
                {
-                  "optGroupDevelopments":"Development News",
-                  "options": [
-                     {
-                        "opt":"190 Strand"
-                     },
-                     {
-                        "opt":"250 City Road"
-                     },
-                     {
-                        "opt":"375 Kensington High Street"
-                     },
-                     {
-                        "opt":"Abell and Cleland"
-                     },
-                     {
-                        "opt":"Bankside Gardens"
-                     },
-                     {
-                        "opt":"Battersea Reach"
-                     },
-                     {
-                        "opt":"Beaufort Park"
-                     },
-                     {
-                        "opt":"Brewery Gate"
-                     },
-                     {
-                        "opt":"Broadacres"
-                     },
-                     {
-                        "opt":"Brunswick Square"
-                     },
-                     {
-                        "opt":"Cambridge Riverside"
-                     },
-                     {
-                        "opt":"Campsbourne Well"
-                     }
-                  ]
+                  "opt":"News from Berkeley Foundation"
+               },
+               {
+                  "opt":"News from Berkeley Group"
+               },
+               {
+                  "opt":"News from Berkeley Modular"
+               },
+               {
+                  "opt":"News from St Edward"
+               },
+               {
+                  "opt":"News from St George"
+               },
+               {
+                  "opt":"News from St James"
+               },
+               {
+                  "opt":"News from St Joseph"
+               },
+               {
+                  "opt":"News from St William"
                }
-               
-            ]
+            ],
+            "developments": [
+               {
+                  "opt":"190 Strand"
+               },
+               {
+                  "opt":"250 City Road"
+               },
+               {
+                  "opt":"375 Kensington High Street"
+               },
+               {
+                  "opt":"Abell and Cleland"
+               },
+               {
+                  "opt":"Bankside Gardens"
+               },
+               {
+                  "opt":"Battersea Reach"
+               },
+               {
+                  "opt":"Beaufort Park"
+               },
+               {
+                  "opt":"Brewery Gate"
+               },
+               {
+                  "opt":"Broadacres"
+               },
+               {
+                  "opt":"Brunswick Square"
+               },
+               {
+                  "opt":"Cambridge Riverside"
+               },
+               {
+                  "opt":"Campsbourne Well"
+               }
+            ],
+            "optGroupBrands":"Brand News",
+            "optGroupDevelopments":"Development News"
          },
          {
             "categories":[
