@@ -114,77 +114,100 @@
          {
             "all":[
                { 
-                  "opt":"All brands" 
+                  "opt":"All brands",
+                  "id" :"All brands" 
                },
                { 
-                  "opt":"All news" 
+                  "opt":"All news",
+                  "id" :"All news" 
                }
             ],
             "brands":[
                {
-                  "opt":"News from Berkeley"
+                  "opt":"News from Berkeley",
+                  "id" :"News from Berkeley"
                },
                {
-                  "opt":"News from Berkeley Foundation"
+                  "opt":"News from Berkeley Foundation",
+                  "id" :"News from Berkeley Foundation"
                },
                {
-                  "opt":"News from Berkeley Group"
+                  "opt":"News from Berkeley Group",
+                  "id" :"News from Berkeley Group"
                },
                {
-                  "opt":"News from Berkeley Modular"
+                  "opt":"News from Berkeley Modular",
+                  "id" :"News from Berkeley Modular"
                },
                {
-                  "opt":"News from St Edward"
+                  "opt":"News from St Edward",
+                  "id" :"News from St Edward"
                },
                {
-                  "opt":"News from St George"
+                  "opt":"News from St George",
+                  "id" :"News from St George"
                },
                {
-                  "opt":"News from St James"
+                  "opt":"News from St James",
+                  "id" :"News from St James"
                },
                {
-                  "opt":"News from St Joseph"
+                  "opt":"News from St Joseph",
+                  "id" :"News from St Joseph"
                },
                {
-                  "opt":"News from St William"
+                  "opt":"News from St William",
+                  "id" :"News from St William"
                }
             ],
             "developments": [
                {
-                  "opt":"190 Strand"
+                  "opt":"190 Strand",
+                  "id" :"190 Strand"
                },
                {
-                  "opt":"250 City Road"
+                  "opt":"250 City Road",
+                  "id" :"250 City Road"
                },
                {
-                  "opt":"375 Kensington High Street"
+                  "opt":"375 Kensington High Street",
+                  "id" :"375 Kensington High Street"
                },
                {
-                  "opt":"Abell and Cleland"
+                  "opt":"Abell and Cleland",
+                  "id" :"Abell and Cleland"
                },
                {
-                  "opt":"Bankside Gardens"
+                  "opt":"Bankside Gardens",
+                  "id" :"Bankside Gardens"
                },
                {
-                  "opt":"Battersea Reach"
+                  "opt":"Battersea Reach",
+                  "id" :"Battersea Reach"
                },
                {
-                  "opt":"Beaufort Park"
+                  "opt":"Beaufort Park",
+                  "id" :"Beaufort Park"
                },
                {
-                  "opt":"Brewery Gate"
+                  "opt":"Brewery Gate",
+                  "id" :"Brewery Gate"
                },
                {
-                  "opt":"Broadacres"
+                  "opt":"Broadacres",
+                  "id" :"Broadacres"
                },
                {
-                  "opt":"Brunswick Square"
+                  "opt":"Brunswick Square",
+                  "id" :"Brunswick Square"
                },
                {
-                  "opt":"Cambridge Riverside"
+                  "opt":"Cambridge Riverside",
+                  "id" :"Cambridge Riverside"
                },
                {
-                  "opt":"Campsbourne Well"
+                  "opt":"Campsbourne Well",
+                  "id" :"Campsbourne Well"
                }
             ],
             "optGroupBrands":"Brand News",
@@ -193,55 +216,68 @@
          {
             "categories":[
                {
-                  "opt":"All categories"
+                  "opt":"All categories",
+                  "id" :"All categories"
                },
                {
-                  "opt":"Awards"
+                  "opt":"Awards",
+                  "id" :"Awards"
                },
                {
-                  "opt":"Climate change"
+                  "opt":"Climate change",
+                  "id" :"Climate change"
                },
                {
-                  "opt":"Community"
+                  "opt":"Community",
+                  "id" :"Community"
                },
                {
-                  "opt":"Customer Experience"
+                  "opt":"Customer Experience",
+                  "id" :"Customer Experience"
                },
                {
-                  "opt":"Nature recovery"
+                  "opt":"Nature recovery",
+                  "id" :"Nature recovery"
                },
                {
-                  "opt":"Skills"
+                  "opt":"Skills",
+                  "id" :"Skills"
                },
                {
-                  "opt":"Smart construction"
+                  "opt":"Smart construction",
+                  "id" :"Smart construction"
                }
             ]
          },
          {
             "types": [
                {
-                  "opt":"All types"
+                  "opt":"All types",
+                  "id" :"All types"
                },
                {
-                  "opt":"Blogs"
+                  "opt":"Blogs",
+                  "id" :"Blogs"
                },  
                {
-                  "opt":"Features"
+                  "opt":"Features",
+                  "id" :"Features"
                }, 
                {
-                  "opt":"News"
+                  "opt":"News",
+                  "id" :"News"
                }, 
                {
-                  "opt":"Videos"
+                  "opt":"Videos",
+                  "id" :"Videos"
                } 
             ]
          }
       ],
-      "totalNoOfItems":12,
-      "currentBrand": 1,
-      "currentCategory": 2,
-      "currentType": 3,
-      "selectedPage":0
+      "totalNoOfItems"  :12,
+      "currentBrand"    :"All news",
+      "currentCategory" :"Climate change",
+      "currentType"     :"News",
+      "selectedPage"    :0
    }
 }
