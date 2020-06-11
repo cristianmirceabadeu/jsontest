@@ -110,174 +110,381 @@
             "linkHref":"http://dev.berkeley.local/News-and-Insights/News/2020/NewsArticle"
          }
       ],
-      "newsFilters":[
-         {
-            "all":[
-               { 
-                  "opt":"All brands",
-                  "id" :"All brands" 
-               },
-               { 
-                  "opt":"All news",
-                  "id" :"All news" 
-               }
-            ],
-            "brands":[
-               {
-                  "opt":"News from Berkeley",
-                  "id" :"News from Berkeley"
-               },
-               {
-                  "opt":"News from Berkeley Foundation",
-                  "id" :"News from Berkeley Foundation"
-               },
-               {
-                  "opt":"News from Berkeley Group",
-                  "id" :"News from Berkeley Group"
-               },
-               {
-                  "opt":"News from Berkeley Modular",
-                  "id" :"News from Berkeley Modular"
-               },
-               {
-                  "opt":"News from St Edward",
-                  "id" :"News from St Edward"
-               },
-               {
-                  "opt":"News from St George",
-                  "id" :"News from St George"
-               },
-               {
-                  "opt":"News from St James",
-                  "id" :"News from St James"
-               },
-               {
-                  "opt":"News from St Joseph",
-                  "id" :"News from St Joseph"
-               },
-               {
-                  "opt":"News from St William",
-                  "id" :"News from St William"
-               }
-            ],
-            "developments": [
-               {
-                  "opt":"190 Strand",
-                  "id" :"190 Strand"
-               },
-               {
-                  "opt":"250 City Road",
-                  "id" :"250 City Road"
-               },
-               {
-                  "opt":"375 Kensington High Street",
-                  "id" :"375 Kensington High Street"
-               },
-               {
-                  "opt":"Abell and Cleland",
-                  "id" :"Abell and Cleland"
-               },
-               {
-                  "opt":"Bankside Gardens",
-                  "id" :"Bankside Gardens"
-               },
-               {
-                  "opt":"Battersea Reach",
-                  "id" :"Battersea Reach"
-               },
-               {
-                  "opt":"Beaufort Park",
-                  "id" :"Beaufort Park"
-               },
-               {
-                  "opt":"Brewery Gate",
-                  "id" :"Brewery Gate"
-               },
-               {
-                  "opt":"Broadacres",
-                  "id" :"Broadacres"
-               },
-               {
-                  "opt":"Brunswick Square",
-                  "id" :"Brunswick Square"
-               },
-               {
-                  "opt":"Cambridge Riverside",
-                  "id" :"Cambridge Riverside"
-               },
-               {
-                  "opt":"Campsbourne Well",
-                  "id" :"Campsbourne Well"
-               }
-            ],
-            "optGroupBrands":"Brand News",
-            "optGroupDevelopments":"Development News"
-         },
-         {
-            "categories":[
-               {
-                  "opt":"All categories",
-                  "id" :"All categories"
-               },
-               {
-                  "opt":"Awards",
-                  "id" :"Awards"
-               },
-               {
-                  "opt":"Climate change",
-                  "id" :"Climate change"
-               },
-               {
-                  "opt":"Community",
-                  "id" :"Community"
-               },
-               {
-                  "opt":"Customer Experience",
-                  "id" :"Customer Experience"
-               },
-               {
-                  "opt":"Nature recovery",
-                  "id" :"Nature recovery"
-               },
-               {
-                  "opt":"Skills",
-                  "id" :"Skills"
-               },
-               {
-                  "opt":"Smart construction",
-                  "id" :"Smart construction"
-               }
-            ]
-         },
-         {
-            "types": [
-               {
-                  "opt":"All types",
-                  "id" :"All types"
-               },
-               {
-                  "opt":"Blogs",
-                  "id" :"Blogs"
-               },  
-               {
-                  "opt":"Features",
-                  "id" :"Features"
-               }, 
-               {
-                  "opt":"News",
-                  "id" :"News"
-               }, 
-               {
-                  "opt":"Videos",
-                  "id" :"Videos"
-               } 
-            ]
-         }
-      ],
+      "newsFilters":{
+         "all":[
+            {
+               "id":"1",
+               "opt":"All Brands"
+            },
+            {
+               "id":"0",
+               "opt":"All News"
+            }
+         ],
+         "brands":[
+            {
+               "id":"{43F9F6C4-7510-4B3A-B064-44FC18CD69CD}",
+               "opt":"Berkeley"
+            },
+            {
+               "id":"{38EFC6A4-031E-4D0E-A5EA-65516FCB0DAA}",
+               "opt":"Berkeley Foundation"
+            },
+            {
+               "id":"{97E2CCD0-9C66-4A60-8DC3-679FF60DC5D2}",
+               "opt":"Berkeley Group"
+            },
+            {
+               "id":"{89F2014B-7D76-41DF-B522-654AD83D1F8A}",
+               "opt":"Berkeley Modular"
+            },
+            {
+               "id":"{05CE9255-6762-4A82-B7ED-B132FD7705B4}",
+               "opt":"St Edward"
+            },
+            {
+               "id":"{EABE68FE-B207-408B-A9A8-78E1E9F8D7A4}",
+               "opt":"St George"
+            },
+            {
+               "id":"{E6210543-E7C1-4A86-BF9A-3663E309386B}",
+               "opt":"St James"
+            },
+            {
+               "id":"{C1B3C6FC-94DF-41FE-9A01-652E759FB356}",
+               "opt":"St Joseph"
+            },
+            {
+               "id":"{31070F92-8713-413D-BFF7-77FBA706D688}",
+               "opt":"St William"
+            }
+         ],
+         "developments":[
+            {
+               "id":"{9282D1D4-C32A-48F7-B797-A87136E65934}",
+               "opt":"190 Strand"
+            },
+            {
+               "id":"{82300167-2F67-4E95-B721-1149165A1B5B}",
+               "opt":"250 City Road"
+            },
+            {
+               "id":"{54E09312-4B7E-4030-BD02-83000198603F}",
+               "opt":"375 Kensington High Street"
+            },
+            {
+               "id":"{3200F8DE-306C-4A1A-95E9-D076878581D2}",
+               "opt":"Abell and Cleland"
+            },
+            {
+               "id":"{6D9C80A9-92EE-4938-A6C4-A20110FA35D5}",
+               "opt":"Bankside Gardens"
+            },
+            {
+               "id":"{75447E6A-710D-4859-A0FB-0CE51320DB38}",
+               "opt":"Battersea Reach"
+            },
+            {
+               "id":"{5AFA59C6-7FE0-4773-A9A8-81534E76CCEA}",
+               "opt":"Beaufort Park"
+            },
+            {
+               "id":"{326EFD19-EE80-42E7-9ECC-D5D216FDBF7F}",
+               "opt":"Brewery Gate"
+            },
+            {
+               "id":"{BF69440D-BF27-4169-BCF9-4C6C51BB9D35}",
+               "opt":"Broadacres"
+            },
+            {
+               "id":"{C6B77EE9-5A5F-402A-B7EC-B97DD63DE5A3}",
+               "opt":"Brunswick Square"
+            },
+            {
+               "id":"{936F03EA-0890-411D-954C-E8E8F3466520}",
+               "opt":"Cambridge Riverside"
+            },
+            {
+               "id":"{2BBF4227-53C2-4EF0-9529-9235B46FC2AF}",
+               "opt":"Campsbourne Well"
+            },
+            {
+               "id":"{288F1E84-B163-46D1-AE51-6D3CE55CFC61}",
+               "opt":"Chelsea Creek"
+            },
+            {
+               "id":"{DDDBB591-74EA-4D35-A22A-9944ADAC2013}",
+               "opt":"Clarendon"
+            },
+            {
+               "id":"{99F1C46B-6EB8-468B-BC43-199A1826E9E2}",
+               "opt":"Dickens Yard"
+            },
+            {
+               "id":"{C45C7750-B012-4EF0-9528-ECFE19DCAAF0}",
+               "opt":"Edenbrook Village"
+            },
+            {
+               "id":"{86DBE722-5AD4-42A9-9957-846AACE5AF51}",
+               "opt":"Elmswater"
+            },
+            {
+               "id":"{034126A7-CD4A-447E-B038-FADC4D3AA4F4}",
+               "opt":"Fairwood Place"
+            },
+            {
+               "id":"{867ACC00-DDFB-4C16-A987-D29FC525371F}",
+               "opt":"Filmworks Ealing"
+            },
+            {
+               "id":"{594FF300-D6EA-4637-B665-C27F13EB5967}",
+               "opt":"Fitzroy Gate"
+            },
+            {
+               "id":"{6894E491-C5D0-49F9-B9E2-DE555C4B1FC2}",
+               "opt":"Forbury Blackheath"
+            },
+            {
+               "id":"{FA6C4C24-C7BB-4525-A5F5-DCBB9AA451B7}",
+               "opt":"Fulham Reach"
+            },
+            {
+               "id":"{CD9A87E1-9CED-4290-8B5F-6E00AC063B31}",
+               "opt":"Goodman's Fields"
+            },
+            {
+               "id":"{6F563CCC-49E1-4D55-A3D8-DC226086D2C0}",
+               "opt":"Grand Union"
+            },
+            {
+               "id":"{2D4416CC-B728-4F0B-84C9-20F90D8C6894}",
+               "opt":"Green Park Village"
+            },
+            {
+               "id":"{C5726E59-7F1E-49B8-B24A-343AF53EDD82}",
+               "opt":"Hartland Village"
+            },
+            {
+               "id":"{F99FE0AB-D479-4390-88A2-844906346C07}",
+               "opt":"Heritage Walk"
+            },
+            {
+               "id":"{82898784-5B06-46E0-8444-31EC5711E963}",
+               "opt":"Highwood Village"
+            },
+            {
+               "id":"{208230DF-8CE5-40A8-903E-AE0F61C4138B}",
+               "opt":"Holborough Lakes"
+            },
+            {
+               "id":"{0F494D47-9D04-4096-BEA1-9F94D236FE04}",
+               "opt":"Hollyfields"
+            },
+            {
+               "id":"{93D0DBC0-9CF7-4B86-B2A8-8B121ACE6F95}",
+               "opt":"Huntley Wharf"
+            },
+            {
+               "id":"{A1CC588E-0066-472D-BFE7-43D3DA5420EC}",
+               "opt":"Hurlingham Walk"
+            },
+            {
+               "id":"{B259A401-79AD-48C5-9B04-D92E3BAB64AC}",
+               "opt":"Kennet Island"
+            },
+            {
+               "id":"{407A4BE2-9ABB-4C52-BC42-92DB260C4274}",
+               "opt":"Kensington Row"
+            },
+            {
+               "id":"{C82F7FC9-7D07-4424-A63C-682F7E89976D}",
+               "opt":"Kew Bridge"
+            },
+            {
+               "id":"{DACB5F5B-884C-4A65-A9AC-4FC8512F4F11}",
+               "opt":"Kew Bridge West"
+            },
+            {
+               "id":"{3D3F28A8-ADA1-489A-8364-197A8C44D0DB}",
+               "opt":"Kidbrooke Village"
+            },
+            {
+               "id":"{1EE08DC1-292F-46F1-915B-BC991A2089F3}",
+               "opt":"Kingsbrook Park"
+            },
+            {
+               "id":"{6E366946-FBCB-4887-83B9-91BE2CB34AA8}",
+               "opt":"King's Road Park"
+            },
+            {
+               "id":"{4314E3CF-3ACD-4491-9E0B-51117C4B7351}",
+               "opt":"London Dock"
+            },
+            {
+               "id":"{89A0B068-F857-4D6D-B3CD-19B2649BDC7A}",
+               "opt":"Merano Residences"
+            },
+            {
+               "id":"{14FA696A-9BEF-445F-85EA-995CA4B881A4}",
+               "opt":"One Blackfriars"
+            },
+            {
+               "id":"{70DD2A67-DE98-44A5-9118-34E8FC90799F}",
+               "opt":"One Tower Bridge"
+            },
+            {
+               "id":"{801185E5-3E1F-4E0A-A4BC-A21AC01E3E14}",
+               "opt":""
+            },
+            {
+               "id":"{FCBADD82-5575-42C6-AC45-DF1BD46DF028}",
+               "opt":"Prince Of Wales Drive"
+            },
+            {
+               "id":"{3AF36FA9-C47A-4A9C-AB64-5C92CBF42A2A}",
+               "opt":"Princes Chase"
+            },
+            {
+               "id":"{31C5FF87-CBB9-4124-9C2B-F9B106CF258C}",
+               "opt":"Queenshurst"
+            },
+            {
+               "id":"{4B03CD17-A4AE-4F37-AF3B-AD192F53D200}",
+               "opt":"Richmond Chase"
+            },
+            {
+               "id":"{2539C0BA-7710-4A30-B5B1-46D1C20535C8}",
+               "opt":"Riverlight"
+            },
+            {
+               "id":"{4B504B29-F857-4BA0-9C7A-F4F6B48F656C}",
+               "opt":"Roman House"
+            },
+            {
+               "id":"{1A53B7F4-ABD1-4071-B6B6-FDCA53D3DD24}",
+               "opt":"Royal Arsenal Riverside"
+            },
+            {
+               "id":"{74037B4C-CB65-49A6-B266-21722D6399A0}",
+               "opt":"Royal Wells Park"
+            },
+            {
+               "id":"{BFA2E969-548A-436C-B366-0A4CC33379E7}",
+               "opt":"Ryewood"
+            },
+            {
+               "id":"{53F8C762-062E-4DDD-B00A-083203BA56C2}",
+               "opt":"Snow Hill Wharf"
+            },
+            {
+               "id":"{D94949E8-B3A5-4BC7-8290-F508E563A378}",
+               "opt":"Southall Waterside"
+            },
+            {
+               "id":"{76ED54DB-0994-4027-88E7-58F167413B49}",
+               "opt":"South Quay Plaza"
+            },
+            {
+               "id":"{AEBBD86B-6AE1-4568-9BF8-EEB2251D932A}",
+               "opt":"Sovereign Court"
+            },
+            {
+               "id":"{CFA8858E-6F1D-4A27-BD24-6E8FFD50217A}",
+               "opt":"Stanmore Place"
+            },
+            {
+               "id":"{21AD4D78-ADA5-4E43-843C-996CD4051DDF}",
+               "opt":"Taplow Riverside"
+            },
+            {
+               "id":"{BF7EFB88-4B7A-4C7A-8B3F-DC62B8D0B37D}",
+               "opt":"Victory Pier"
+            },
+            {
+               "id":"{4A8E7FEC-1045-420A-9659-BCC40F29957E}",
+               "opt":"White City Living"
+            },
+            {
+               "id":"{FF7DED1C-2154-4C02-B11A-D27E94A60EBD}",
+               "opt":"Wimbledon Hill Park"
+            },
+            {
+               "id":"{41D049B4-6813-42A6-A901-720A057E81D9}",
+               "opt":"Woodberry Down"
+            },
+            {
+               "id":"{102C1293-917E-43F0-ACF2-D39B9B46A5C6}",
+               "opt":"Woodhurst Park"
+            }
+         ],
+         "categories":[
+            {
+               "id":"2",
+               "opt":"All Categories"
+            },
+            {
+               "id":"{F69A2D71-CCEA-4539-B340-186EBAD1718C}",
+               "opt":"Awards"
+            },
+            {
+               "id":"{E07A25CE-2E0E-4903-BCB2-5E4DF5D57530}",
+               "opt":"Climate change"
+            },
+            {
+               "id":"{EA3DBDCB-8FD2-478D-BF84-4BB499AA226D}",
+               "opt":"Community"
+            },
+            {
+               "id":"{F31E7FF9-9123-4D9F-AC3C-F891B00B44FD}",
+               "opt":"Customer Experience"
+            },
+            {
+               "id":"{321EABE6-E414-4CED-996B-D88F4D89F5EA}",
+               "opt":"Nature recovery"
+            },
+            {
+               "id":"{CCC8FDEF-B71E-4141-868D-6C40CE1B1DFC}",
+               "opt":"Skills"
+            },
+            {
+               "id":"{4C7695E5-780C-4ED8-A68A-5E2B26A19970}",
+               "opt":"Smart construction"
+            },
+            {
+               "id":"4",
+               "opt":"Non-Corporate"
+            }
+         ],
+         "types":[
+            {
+               "id":"3",
+               "opt":"All Types"
+            },
+            {
+               "id":"{DB2AD7EF-EC4E-4E40-A23E-963B4DCF9229}",
+               "opt":"Blogs"
+            },
+            {
+               "id":"{1E625055-9086-4354-85E9-C6284D2508EF}",
+               "opt":"Features"
+            },
+            {
+               "id":"{D5BA2DEC-ECC4-4350-89F5-FE3F59B4B7F5}",
+               "opt":"News"
+            },
+            {
+               "id":"{2BF0B2A4-A230-4327-9145-E8B05638BF92}",
+               "opt":"Videos"
+            }
+         ],
+         "optGroupBrands":"Brand News",
+         "optGroupDevelopments":"Development News"
+      },
       "totalNoOfItems"  :12,
-      "currentBrand"    :"All news",
-      "currentCategory" :"Climate change",
-      "currentType"     :"News",
-      "selectedPage"    :0
+      "selectedPage":1,
+      "currentBrand":"{FCBADD82-5575-42C6-AC45-DF1BD46DF028}",
+      "currentCategory":"2",
+      "currentType":"3",
+      "keyword":""
    }
 }
