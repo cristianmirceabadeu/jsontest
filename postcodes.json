@@ -1,0 +1,26 @@
+[
+    {
+       "locationID":"A3875DD2-BAC9-4ECB-BFFB-67F62582C621",
+       "distance":5,
+       "category":"Postcodes",
+       "label":"EC1V, Finsbury, Moorfields Eye Hospital",
+       "id":"POINT(-0.0994418 51.5264)",
+       "value":"EC1V, Finsbury, Moorfields Eye Hospital"
+    },
+    {
+        "locationID":"736B4431-29B5-4EC8-9707-227F76DC064A",
+        "distance":5,
+        "category":"Postcodes",
+        "label":"SW1P, Victoria Station, the Houses of Parliament, and Vauxhall Bridge; eastern part of Pimlico",
+        "id":"POINT(-0.134045 51.4895)",
+        "value":"SW1P, Victoria Station, the Houses of Parliament, and Vauxhall Bridge; eastern part of Pimlico"
+     },
+     {
+        "locationID":"1A63FADC-3966-4BF7-AB1D-A49C1BA624B6",
+        "distance":5,
+        "category":"Postcodes",
+        "label":"NW9, The Hyde, Colindale, Kingsbury, Queensbury, West Hendon",
+        "id":"POINT(-0.254521 51.5861)",
+        "value":"NW9, The Hyde, Colindale, Kingsbury, Queensbury, West Hendon"
+     }
+ ]

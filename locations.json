@@ -1,0 +1,92 @@
+[  
+   {
+       "locationID":"3AC06BAE-108B-434F-8A99-BB4C749B63D2",
+       "distance":20,
+       "category":"Locations",
+       "label":"London",
+       "id":"POINT(-0.127156 51.50758)",
+       "value":"London",
+       "type":"T"
+    },
+    {
+       "locationID":"D39A32E6-CE02-4161-BC4C-4D6F8E64D849",
+       "distance":20,
+       "category":"Locations",
+       "label":"City of London, London",
+       "id":"POINT(-0.08656094 51.51505)",
+       "value":"City of London, London",
+       "type":"T"
+    },
+    {
+       "locationID":"2A65FCF7-2E60-4939-BB70-BA5B36CE8FBC",
+       "distance":20,
+       "category":"Locations",
+       "label":"London Arena, London",
+       "id":"POINT(-0.01907355 51.50605)",
+       "value":"London Arena, London",
+       "type":"T"
+    },
+    {
+       "locationID":"A30D4DFA-15A1-429A-828B-E183B85390AE",
+       "distance":20,
+       "category":"Locations",
+       "label":"London Bridge, London",
+       "id":"POINT(-0.08334422 51.5)",
+       "value":"London Bridge, London",
+       "type":"T"
+    },
+    {
+       "locationID":"325F472E-9C0B-4C1E-B996-3B7A7297D689",
+       "distance":20,
+       "category":"Locations",
+       "label":"London Wall, London",
+       "id":"POINT(-0.0889683 51.51953)",
+       "value":"London Wall, London",
+       "type":"T"
+    },
+    {
+       "locationID":"39C92D10-D487-4EDB-B596-DB511BB52DB4",
+       "distance":20,
+       "category":"Locations",
+       "label":"Longford, London",
+       "id":"POINT(-0.4697729 51.50655)",
+       "value":"Longford, London",
+       "type":"T"
+    },
+    {
+       "locationID":"819C8E87-32C7-4367-9A4E-414DF8F0DE5C",
+       "distance":20,
+       "category":"Locations",
+       "label":"Tower of London, London",
+       "id":"POINT(-0.08551854 51.51207)",
+       "value":"Tower of London, London",
+       "type":"T"
+    },
+    {
+       "locationID":"F63DBC5D-91A4-46F9-B71C-E38DD0E506F2",
+       "distance":20,
+       "category":"Locations",
+       "label":"Allonby, Cumbria",
+       "id":"POINT(-3.426529 54.77362)",
+       "value":"Allonby, Cumbria",
+       "type":"T"
+    },
+    {
+       "locationID":"856EBD88-D8B4-44CB-941D-DD2F2490B245",
+       "distance":20,
+       "category":"Locations",
+       "label":"Annaclone, County Down",
+       "id":"POINT(-6.183336 54.29999)",
+       "value":"Annaclone, County Down",
+       "type":"T"
+    },
+    {
+       "locationID":"308FE0CD-21C3-4776-ADC2-62AE3888EDA3",
+       "distance":20,
+       "category":"Locations",
+       "label":"Annalong, County Down",
+       "id":"POINT(-5.883332 54.09999)",
+       "value":"Annalong, County Down",
+       "type":"T"
+    }
+   ]

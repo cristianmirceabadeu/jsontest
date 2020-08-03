@@ -1,0 +1,92 @@
+[
+    {
+       "distance":0,
+       "developmentID":"1351E1F7-4EDF-4665-BBD3-0DD81A8FF8DB",
+       "category":"Developments",
+       "friendlyurl":"developments/london/islington/250-city-road",
+       "label":"250 City Road, Islington, London, EC1V 2QQ",
+       "id":"POINT(-0.095686 51.528207)",
+       "value":"250 City Road"
+    },
+    {
+       "distance":0,
+       "developmentID":"C8373C18-A1FA-4857-8901-FA1DA6CC46E2",
+       "category":"Developments",
+       "friendlyurl":"developments/london/westminster/9-millbank",
+       "label":"9 Millbank, Westminster, London, SW1P 3GE",
+       "id":"POINT(-0.125402 51.495029)",
+       "value":"9 Millbank"
+    },
+    {
+       "distance":0,
+       "developmentID":"9810B7AA-2050-4D75-8F35-A63F6D84A345",
+       "category":"Developments",
+       "friendlyurl":"developments/london/colindale/beaufort-park",
+       "label":"Beaufort Park, London, NW9 5GW",
+       "id":"POINT(-0.241589 51.595138)",
+       "value":"Beaufort Park"
+    },
+    {
+       "distance":0,
+       "developmentID":"18AF2B71-FAF0-44B1-A5EC-3C1013FCC6A6",
+       "category":"Developments",
+       "friendlyurl":"developments/london/camden/camden-goods-yard",
+       "label":"Camden Goods Yard, Camden, London, NW1 8AA",
+       "id":"POINT(-0.150709 51.541664)",
+       "value":"Camden Goods Yard"
+    },
+    {
+       "distance":0,
+       "developmentID":"768C8E4C-E686-4F6D-BBB7-A590B593FD10",
+       "category":"Developments",
+       "friendlyurl":"developments/london/chelsea/chelsea-creek",
+       "label":"Chelsea Creek, Chelsea, London, SW6 2FS",
+       "id":"POINT(-0.1845121 51.4750623)",
+       "value":"Chelsea Creek"
+    },
+    {
+       "distance":0,
+       "developmentID":"D23865C9-4D50-40E3-91F5-03B307D46C54",
+       "category":"Developments",
+       "friendlyurl":"developments/london/chiswick/chiswick-gate",
+       "label":"Chiswick Gate, Chiswick, London, W4 2TJ",
+       "id":"POINT(-0.254855 51.4858)",
+       "value":"Chiswick Gate"
+    },
+    {
+       "distance":0,
+       "developmentID":"5FACF97E-A101-435A-BF36-BAEA091E9365",
+       "category":"Developments",
+       "friendlyurl":"developments/london/haringey/clarendon",
+       "label":"Clarendon, London, London, N8 0ER",
+       "id":"POINT(-0.11306 51.592519)",
+       "value":"Clarendon"
+    },
+    {
+       "distance":0,
+       "developmentID":"079BB310-41F9-4858-993A-425B35A1F08C",
+       "category":"Developments",
+       "friendlyurl":"developments/london/ealing/filmworks-ealing",
+       "label":"Filmworks Ealing, Ealing, London, W5 5AH",
+       "id":"POINT(-0.3067644 51.5125832)",
+       "value":"Filmworks Ealing"
+    },
+    {
+       "distance":0,
+       "developmentID":"B91DC6F4-E4A0-4258-BE23-5AEE574A6F62",
+       "category":"Developments",
+       "friendlyurl":"developments/london/blackheath/forbury",
+       "label":"Forbury Blackheath, London, SE13 5DL",
+       "id":"POINT(0.000696 51.463581)",
+       "value":"Forbury Blackheath"
+    },
+    {
+       "distance":0,
+       "developmentID":"F01A810D-FA90-4D88-ADB0-43055F5B7D0B",
+       "category":"Developments",
+       "friendlyurl":"developments/london/fulham/fulham-reach",
+       "label":"Fulham Reach, Fulham, London, W6 9GD",
+       "id":"POINT(-0.226207 51.487091)",
+       "value":"Fulham Reach"
+    }
+ ]
