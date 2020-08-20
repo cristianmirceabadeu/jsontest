@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "message": "",
+  "data": {
+    "name": "D Yellowstone Park",
+    "address": "Ascot SL5 8BE",
+    "status": "Available",
+    "homeIcon": {
+      "path": "https://appsvc-uks-tst-bg-sc-sng-01.azurewebsites.net/-/media/Feature/Developments/Developments/home.ashx",
+      "alt": "er"
+    },
+    "propertyTypes": "Houses, Flats, Incomes (Rentals), Communal, Locker Rooms/Storages, Other",
+    "currencyIcon": {
+      "path": "https://appsvc-uks-tst-bg-sc-sng-01.azurewebsites.net/-/media/Feature/Developments/Developments/pound.ashx",
+      "alt": "re"
+    },
+    "priceRange": "£20,000 - £425,000",
+    "shortDescription": "<p>This development offers an exclusive collection of beautiful new and refurbished homes which welcome you with grand wellingtonia trees. </p>",
+    "responseTap": {
+      "backupPhoneNumber": "8689698",
+      "trackingNumber": "rTapNumber410315"
+    },
+    "viewPropertiesButtonLabel": "View 7 Properties",
+    "viewDevelopmentButton": {
+      "name": "View Development",
+      "url": "/en/developments/ACounty/ACity/DDev"
+    },
+    "contactUsButton": {
+      "name": "Contact us",
+      "url": "https://appsvc-uks-tst-bg-sc-sng-01.azurewebsites.net/developments/ACounty/ACity/DDev#aE1F6BD8242894555B234553276D90644"
+    },
+    "previewImage": {
+      "path": "https://appsvc-uks-tst-bg-sc-sng-01.azurewebsites.net/-/media/Feature/Developments/PreviewImages/development-preview1.ashx",
+      "alt": "df"
+    },
+    "brand": {
+      "brandImage": {
+        "path": "https://appsvc-uks-tst-bg-sc-sng-01.azurewebsites.net/-/media/Feature/Developments/Brands/st-james-logo.ashx",
+        "alt": "StJames"
+      },
+      "url": ""
+    }
+  }
+}

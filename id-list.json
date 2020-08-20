@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "message": "",
+  "data": {
+    "items": [
+      {
+        "title": "Reading1",
+        "developmentIds": ["lorem-ipsum-1"]
+      },
+      {
+        "title": "Reading2",
+        "developmentIds": ["lorem-ipsum-2"]
+      },
+      {
+        "title": "Reading3",
+        "developmentIds": ["lorem-ipsum-3"]
+      },
+      {
+        "title": "Reading4",
+        "developmentIds": ["lorem-ipsum-4"]
+      },
+      {
+        "title": "Reading5",
+        "developmentIds": ["lorem-ipsum-5"]
+      },
+      {
+        "title": "Reading6",
+        "developmentIds": ["lorem-ipsum-6"]
+      },
+      {
+        "title": "Reading7",
+        "developmentIds": ["lorem-ipsum-7"]
+      }
+    ]
+  }
+}
