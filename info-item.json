@@ -6,15 +6,15 @@
     "address": "Ascot SL5 8BE",
     "status": "Available",
     "homeIcon": {
-      "path": "https://appsvc-uks-tst-bg-sc-sng-01.azurewebsites.net/-/media/Feature/Developments/Developments/home.ashx",
+      "path": "https://icons-for-free.com/iconfiles/png/512/home-131964784858199667.png",
       "alt": "er"
     },
     "propertyTypes": "Houses, Flats, Incomes (Rentals), Communal, Locker Rooms/Storages, Other",
     "currencyIcon": {
-      "path": "https://appsvc-uks-tst-bg-sc-sng-01.azurewebsites.net/-/media/Feature/Developments/Developments/pound.ashx",
+      "path": "https://findicons.com/files/icons/2711/free_icons_for_windows8_metro/512/gbp.png",
       "alt": "re"
     },
-    "priceRange": "£20,000 - £425,000",
+    "priceRange": "&pound;20,000 - &pound;425,000",
     "shortDescription": "<p>This development offers an exclusive collection of beautiful new and refurbished homes which welcome you with grand wellingtonia trees. </p>",
     "responseTap": {
       "backupPhoneNumber": "8689698",
@@ -35,7 +35,7 @@
     },
     "brand": {
       "brandImage": {
-        "path": "https://appsvc-uks-tst-bg-sc-sng-01.azurewebsites.net/-/media/Feature/Developments/Brands/st-james-logo.ashx",
+        "path": "https://cdn.berkeleygroup.co.uk/showmedia.cfm?iMediaID=35270&sMediaSubType=image2&class=image-dev&resolution=1536&dpr=1.25",
         "alt": "StJames"
       },
       "url": ""
