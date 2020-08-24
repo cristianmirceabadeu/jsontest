@@ -21,7 +21,10 @@
           "phaseprice": "£0 - £750k",
           "phasebedrooms": "Studio 6+",
           "phasestatus": "available",
-          "phasephone": "020 8108 244"
+          "phasephone": {
+            "backupPhoneNumber": "8689698",
+            "trackingNumber": "rTapNumber410315"
+          }
         },
         "actions": {
           "view": {
@@ -42,7 +45,10 @@
           "phaseprice": "£0 - £750k",
           "phasebedrooms": "Studio 6+",
           "phasestatus": "available",
-          "phasephone": "020 8108 244"
+          "phasephone": {
+            "backupPhoneNumber": "8689698",
+            "trackingNumber": "rTapNumber410315"
+          }
         },
         "actions": {
           "view": {
@@ -63,7 +69,10 @@
           "phaseprice": "£0 - £750k",
           "phasebedrooms": "Studio 6+",
           "phasestatus": "available",
-          "phasephone": "020 8108 244"
+          "phasephone": {
+            "backupPhoneNumber": "8689698",
+            "trackingNumber": "rTapNumber410315"
+          }
         },
         "actions": {
           "view": {
