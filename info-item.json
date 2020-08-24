@@ -6,12 +6,12 @@
     "address": "Ascot SL5 8BE",
     "status": "Available",
     "homeIcon": {
-      "path": "https://icons-for-free.com/iconfiles/png/512/home-131964784858199667.png",
+      "path": "http://files.softicons.com/download/application-icons/32x32-free-design-icons-by-aha-soft/png/32/Home.png",
       "alt": "er"
     },
     "propertyTypes": "Houses, Flats, Incomes (Rentals), Communal, Locker Rooms/Storages, Other",
     "currencyIcon": {
-      "path": "https://findicons.com/files/icons/2711/free_icons_for_windows8_metro/512/gbp.png",
+      "path": "https://d1nhio0ox7pgb.cloudfront.net/_img/v_collection_png/32x32/shadow/currency_pound.png",
       "alt": "re"
     },
     "priceRange": "&pound;20,000 - &pound;425,000",
@@ -30,12 +30,12 @@
       "url": "https://appsvc-uks-tst-bg-sc-sng-01.azurewebsites.net/developments/ACounty/ACity/DDev#aE1F6BD8242894555B234553276D90644"
     },
     "previewImage": {
-      "path": "https://appsvc-uks-tst-bg-sc-sng-01.azurewebsites.net/-/media/Feature/Developments/PreviewImages/development-preview1.ashx",
+      "path": "https://cdn.berkeleygroup.co.uk/showmedia.cfm?iMediaID=35270&sMediaSubType=image2&class=image-dev&resolution=1536&dpr=1.25",
       "alt": "df"
     },
     "brand": {
       "brandImage": {
-        "path": "https://cdn.berkeleygroup.co.uk/showmedia.cfm?iMediaID=35270&sMediaSubType=image2&class=image-dev&resolution=1536&dpr=1.25",
+        "path": "https://www.berkeleygroup.co.uk/media/logo/8/e/st-james-logo-main-new.png",
         "alt": "StJames"
       },
       "url": ""
