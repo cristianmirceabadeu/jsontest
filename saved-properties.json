@@ -18,7 +18,7 @@
           "propertyname": "The Dumont",
           "propertynnumber": "3",
           "propertybedrooms": "Studio 6+",
-          "propertyprice": "&pound;0 - &pound;750k",
+          "propertyprice": "&pound; 0 - &pound; 750k",
           "propertytype": "Apartment",
           "phase id": "Grasslands",
           "propertystatus": "Completed"
@@ -39,7 +39,7 @@
           "propertyname": "The Dumont 2",
           "propertynnumber": "4",
           "propertybedrooms": "3+",
-          "propertyprice": "&pound;250k - &pound;750k",
+          "propertyprice": "&pound; 250k - &pound; 750k",
           "propertytype": "Flat",
           "phase id": "Grasslands 2",
           "propertystatus": "Completed"
@@ -60,7 +60,7 @@
           "propertyname": "The Dumont 3",
           "propertynnumber": "5",
           "propertybedrooms": "penthouse",
-          "propertyprice": "&pound;750k - &pound;2.5kk",
+          "propertyprice": "&pound; 750k - &pound; 2.5kk",
           "propertytype": "Penthouse",
           "phase id": "Grasslands 3",
           "propertystatus": "Completed"
@@ -68,11 +68,11 @@
         "actions": {
           "view": {
             "name" : "View property",
-            "propURL": "https://www.berkeleygroup.co.uk/plot?developmentID=7911&propertyID=FFC58EDD-78CF-485E-9BE6-40414304B5FB"
+            "url": "https://www.berkeleygroup.co.uk/plot?developmentID=7911&propertyID=FFC58EDD-78CF-485E-9BE6-40414304B5FB"
           },
           "delete": {
             "name" : "Delete property",
-            "propURL": ""
+            "url": ""
           }
         }
       }
