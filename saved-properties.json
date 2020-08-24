@@ -1,0 +1,150 @@
+{
+  "status": "success",
+  "message": "",
+  "data": {
+    "headings": {
+      "propertynumber": "no.",
+      "propertynoofbathrooms": "bedroom(s)",
+      "propertyprice": "price",
+      "propertystyle": "design type",
+      "propertytype": "type",
+      "phase id": "phase",
+      "propertyestimatedcompletion": "est. completion",
+      "propertysquarefootage": "square footage",
+      "propertyfloor": "floor",
+      "propertystatus": "status"
+    },
+    "configuration": {
+      "itemsPerPage": 2,
+      "headerTemplateMessage": "aratam {start} din {end} din {rows} proprietati"
+    },
+    "items": [
+      {
+        "fields": {
+          "propertynumber": "57",
+          "propertynoofbathrooms": "3",
+          "propertyprice": "£540,000",
+          "propertystyle": "The Kingfisher",
+          "propertytype": "Apartment",
+          "phaseType": "Grasslands",
+          "propertyestimatedcompletion": "Completed",
+          "propertysquarefootage": "417",
+          "propertyfloor": "3",
+          "propertystatus": "Under Offer"
+        },
+        "button": {
+          "name": "View property",
+          "propURL": ""
+        }
+      },
+      {
+        "fields": {
+          "propertynumber": "100",
+          "propertynoofbathrooms": "3",
+          "propertyprice": "£2,495,000",
+          "propertystyle": "The Briar",
+          "propertytype": "Apartment",
+          "phaseType": "Grasslands",
+          "propertyestimatedcompletion": "Completed",
+          "propertysquarefootage": "437",
+          "propertyfloor": "4",
+          "propertystatus": "Available"
+        },
+        "button": {
+          "name": "View property",
+          "propURL": "https://dev.berkeley.local/Data/DynamicsData/Properties/111-test-plot-0907"
+        }
+      },
+      {
+        "fields": {
+          "propertynumber": "47",
+          "propertynoofbathrooms": "1",
+          "propertyprice": "£495,000",
+          "propertystyle": "The Briar",
+          "propertytype": "Apartment",
+          "phaseType": "Grasslands",
+          "propertyestimatedcompletion": "Completed",
+          "propertysquarefootage": "437",
+          "propertyfloor": "4",
+          "propertystatus": "Available"
+        },
+        "button": {
+          "name": "View property",
+          "propURL": "https://dev.berkeley.local/Data/DynamicsData/Properties/111-test-plot-0907"
+        }
+      },
+      {
+        "fields": {
+          "propertynumber": "11",
+          "propertynoofbathrooms": "1",
+          "propertyprice": "",
+          "propertystyle": "The Heron",
+          "propertytype": "Apartment",
+          "phaseType": "Grasslands",
+          "propertyestimatedcompletion": "Completed",
+          "propertysquarefootage": "417",
+          "propertyfloor": "5",
+          "propertystatus": "Reserved"
+        },
+        "button": {
+          "name": "View property",
+          "propURL": "https://dev.berkeley.local/Data/DynamicsData/Properties/D10Demo"
+        }
+      },
+      {
+        "fields": {
+          "propertynumber": "10",
+          "propertynoofbathrooms": "2",
+          "propertyprice": "£3,495,000",
+          "propertystyle": "The Briar",
+          "propertytype": "House",
+          "phaseType": "Grasslands",
+          "propertyestimatedcompletion": "Completed",
+          "propertysquarefootage": "127",
+          "propertyfloor": "6",
+          "propertystatus": "Available"
+        },
+        "button": {
+          "name": "View property",
+          "propURL": "https://dev.berkeley.local/Data/DynamicsData/Properties/111-test-plot-0907"
+        }
+      },
+      {
+        "fields": {
+          "propertynumber": "27",
+          "propertynoofbathrooms": "4",
+          "propertyprice": "£1,234,000",
+          "propertystyle": "The Bunting",
+          "propertytype": "House",
+          "phaseType": "Grasslands",
+          "propertyestimatedcompletion": "Completed",
+          "propertysquarefootage": "753",
+          "propertyfloor": "2",
+          "propertystatus": "Available"
+        },
+        "button": {
+          "name": "View property",
+          "propURL": "https://dev.berkeley.local/Data/DynamicsData/Properties/D10Demo"
+        }
+      },
+      {
+        "fields": {
+          "propertynumber": "199",
+          "propertynoofbathrooms": "5",
+          "propertyprice": "£1,495,000",
+          "propertystyle": "The Briar",
+          "propertytype": "House",
+          "phaseType": "Grasslands",
+          "propertyestimatedcompletion": "Completed",
+          "propertysquarefootage": "877",
+          "propertyfloor": "3",
+          "propertystatus": "Available"
+        },
+        "button": {
+          "name": "View property",
+          "propURL": "https://dev.berkeley.local/Data/DynamicsData/Properties/111-test-plot-0907"
+        }
+      }
+    ]
+  }
+}
