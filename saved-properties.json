@@ -4,7 +4,7 @@
   "data": {
     "headings": {
       "propertyname": "development name",
-      "propertynnumber": "no",
+      "propertynumber": "no",
       "propertybedrooms": "bedroom(s)",
       "propertyprice": "price",
       "propertytype": "type",
@@ -16,7 +16,7 @@
       {
         "fields": {
           "propertyname": "The Dumont",
-          "propertynnumber": "3",
+          "propertynumber": "3",
           "propertybedrooms": "Studio 6+",
           "propertyprice": "£0 - £750k",
           "propertytype": "Apartment",
@@ -25,11 +25,11 @@
         },
         "actions": {
           "view": {
-            "name" : "View property",
+            "name" : "View",
             "propURL": "https://www.berkeleygroup.co.uk/plot?developmentID=7911&propertyID=FFC58EDD-78CF-485E-9BE6-40414304B5FB"
           },
           "delete": {
-            "name" : "Delete property",
+            "name" : "Delete",
             "propURL": ""
           }
         }
@@ -37,7 +37,7 @@
       {
         "fields": {
           "propertyname": "The Dumont 2",
-          "propertynnumber": "4",
+          "propertynumber": "4",
           "propertybedrooms": "3+",
           "propertyprice": "£250k - £750k",
           "propertytype": "Flat",
@@ -46,11 +46,11 @@
         },
         "actions": {
           "view": {
-            "name" : "View property",
+            "name" : "View",
             "propURL": "https://www.berkeleygroup.co.uk/plot?developmentID=7911&propertyID=FFC58EDD-78CF-485E-9BE6-40414304B5FB"
           },
           "delete": {
-            "name" : "Delete property",
+            "name" : "Delete",
             "propURL": ""
           }
         }
@@ -58,7 +58,7 @@
       {
         "fields": {
           "propertyname": "The Dumont 3",
-          "propertynnumber": "5",
+          "propertynumber": "5",
           "propertybedrooms": "penthouse",
           "propertyprice": "£750k - £2.5kk",
           "propertytype": "Penthouse",
@@ -67,11 +67,11 @@
         },
         "actions": {
           "view": {
-            "name" : "View property",
+            "name" : "View",
             "url": "https://www.berkeleygroup.co.uk/plot?developmentID=7911&propertyID=FFC58EDD-78CF-485E-9BE6-40414304B5FB"
           },
           "delete": {
-            "name" : "Delete property",
+            "name" : "Delete",
             "url": ""
           }
         }

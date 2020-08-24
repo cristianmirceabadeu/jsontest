@@ -1,0 +1,80 @@
+{
+  "status": "success",
+  "message": "",
+  "data": {
+    "headings": {
+      "developmentname": "development name",
+      "developmentlocation": "location",
+      "developmentprice": "price",
+      "developmentbedrooms": "bedroom(s)",
+      "developmentstatus": "status",
+      "developmentphone": "phone number",
+      "developmentactions": "actions"
+    },
+    "items": [
+      {
+        "fields": {
+          "developmentname": "The Dumont",
+          "developmentlocation": "London, SE1 7TJ",
+          "developmentprice": "Prices not released",
+          "developmentbedrooms": "1, 2, 3 bedroom apartments, penthouses",
+          "developmentstatus": "available",
+          "developmentphone": "020 8108 2446",
+          "developmentactions": "actions"
+        },
+        "actions": {
+          "view": {
+            "name" : "View",
+            "propURL": "https://www.berkeleygroup.co.uk/plot?developmentID=7911&propertyID=FFC58EDD-78CF-485E-9BE6-40414304B5FB"
+          },
+          "delete": {
+            "name" : "Delete",
+            "propURL": ""
+          }
+        }
+      },
+      {
+        "fields": {
+          "developmentname": "The Dumont 2",
+          "developmentlocation": "London, HA0 1NW",
+          "developmentprice": "£412k - £865k",
+          "developmentbedrooms": "1, 2, 3 bedroom apartments, penthouses",
+          "developmentstatus": "available",
+          "developmentphone": "020 8108 2446",
+          "developmentactions": "actions"
+        },
+        "actions": {
+          "view": {
+            "name" : "View",
+            "propURL": "https://www.berkeleygroup.co.uk/plot?developmentID=7911&propertyID=FFC58EDD-78CF-485E-9BE6-40414304B5FB"
+          },
+          "delete": {
+            "name" : "Delete",
+            "propURL": ""
+          }
+        }
+      },
+      {
+        "fields": {
+        "developmentname": "The Dumont 3",
+        "developmentlocation": "London, WD6 1BS",
+        "developmentprice": "£1.2kk - £2.5kk",
+        "developmentbedrooms": "1, 2, 3 bedroom apartments, penthouses",
+        "developmentstatus": "available",
+        "developmentphone": "020 8108 2446",
+        "developmentactions": "actions"
+      },
+        "actions": {
+          "view": {
+            "name" : "View",
+            "url": "https://www.berkeleygroup.co.uk/plot?developmentID=7911&propertyID=FFC58EDD-78CF-485E-9BE6-40414304B5FB"
+          },
+          "delete": {
+            "name" : "Delete",
+            "url": ""
+          }
+        }
+      }
+    ]
+  }
+}
