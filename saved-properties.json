@@ -26,11 +26,11 @@
         "actions": {
           "view": {
             "name" : "View",
-            "propURL": "https://www.berkeleygroup.co.uk/plot?developmentID=7911&propertyID=FFC58EDD-78CF-485E-9BE6-40414304B5FB"
+            "url": "https://www.berkeleygroup.co.uk/plot?developmentID=7911&propertyID=FFC58EDD-78CF-485E-9BE6-40414304B5FB"
           },
           "delete": {
             "name" : "Delete",
-            "propURL": ""
+            "url": ""
           }
         }
       },
@@ -47,11 +47,11 @@
         "actions": {
           "view": {
             "name" : "View",
-            "propURL": "https://www.berkeleygroup.co.uk/plot?developmentID=7911&propertyID=FFC58EDD-78CF-485E-9BE6-40414304B5FB"
+            "url": "https://www.berkeleygroup.co.uk/plot?developmentID=7911&propertyID=FFC58EDD-78CF-485E-9BE6-40414304B5FB"
           },
           "delete": {
             "name" : "Delete",
-            "propURL": ""
+            "url": ""
           }
         }
       },
