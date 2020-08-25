@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "message": "",
+  "message": "Your phase has been deleted succesfully",
   "data": {
     "headings": {
       "phasedevelopment": "development name",

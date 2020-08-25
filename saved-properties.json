@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "message": "",
+  "message": "Your property has been deleted succesfully",
   "data": {
     "headings": {
       "propertyname": "development name",
