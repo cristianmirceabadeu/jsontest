@@ -1,36 +1,110 @@
 {
-  "status": "success",
-  "message": "",
-  "data": {
-    "items": [
-      {
-        "title": "Reading1",
-        "developmentIds": ["lorem-ipsum-1"]
-      },
-      {
-        "title": "Reading2",
-        "developmentIds": ["lorem-ipsum-2"]
-      },
-      {
-        "title": "Reading3",
-        "developmentIds": ["lorem-ipsum-3"]
-      },
-      {
-        "title": "Reading4",
-        "developmentIds": ["lorem-ipsum-4"]
-      },
-      {
-        "title": "Reading5",
-        "developmentIds": ["lorem-ipsum-5"]
-      },
-      {
-        "title": "Reading6",
-        "developmentIds": ["lorem-ipsum-6"]
-      },
-      {
-        "title": "Reading7",
-        "developmentIds": ["lorem-ipsum-7"]
-      }
-    ]
-  }
+  "status":"success",
+  "message":"",
+  "data":[
+     {
+        "developmentId":"a69cb463-a7ea-4d46-bb7f-e6a7be7571f8",
+        "developmentCoordinates":{
+           "latitude":"51.43232",
+           "longitude":"-0.51605"
+        },
+        "developmentNoOfProperties":5
+     },
+     {
+        "developmentId":"93821be2-aaf9-496d-b556-e39522fba736",
+        "developmentCoordinates":{
+           "latitude":"51.43232",
+           "longitude":"-0.5605"
+        },
+        "developmentNoOfProperties":6
+     },
+     {
+        "developmentId":"e5d0b3fa-9a5f-4bb2-a4f1-92e44a6226a6",
+        "developmentCoordinates":{
+           "latitude":"51.436352",
+           "longitude":"-0.51205"
+        },
+        "developmentNoOfProperties":4
+     },
+     {
+        "developmentId":"1f122357-dd4c-4034-a4e4-f75705859da9",
+        "developmentCoordinates":{
+           "latitude":"51.541813",
+           "longitude":"-0.1501096"
+        },
+        "developmentNoOfProperties":6
+     },
+     {
+        "developmentId":"7a9788bb-c6fc-4262-a39e-441f33173182",
+        "developmentCoordinates":{
+           "latitude":"51.43232",
+           "longitude":"-0.51605"
+        },
+        "developmentNoOfProperties":3
+     },
+     {
+        "developmentId":"df1077a0-e7cf-4a53-b872-231882ad6989",
+        "developmentCoordinates":{
+           "latitude":"51.444891",
+           "longitude":"-0.51891"
+        },
+        "developmentNoOfProperties":1
+     },
+     {
+        "developmentId":"8e3f6f9c-9cbb-4d80-bd96-a97bbaa7d4c3",
+        "developmentCoordinates":{
+           "latitude":"51.43232",
+           "longitude":"-0.51605"
+        },
+        "developmentNoOfProperties":1
+     },
+     {
+        "developmentId":"8055ccf7-d6e1-4f02-96d1-95cbade94cc6",
+        "developmentCoordinates":{
+           "latitude":"51.43321",
+           "longitude":"-0.51445"
+        },
+        "developmentNoOfProperties":1
+     },
+     {
+        "developmentId":"d2a7c88e-1524-4201-8a88-6f86fe7681ed",
+        "developmentCoordinates":{
+           "latitude":"-5.151212",
+           "longitude":"2.54546565"
+        },
+        "developmentNoOfProperties":2
+     },
+     {
+        "developmentId":"707dfdbb-17ef-4bbc-94a7-6d82e471b815",
+        "developmentCoordinates":{
+           "latitude":"51.436352",
+           "longitude":"-0.51205"
+        },
+        "developmentNoOfProperties":7
+     },
+     {
+        "developmentId":"01f32b2c-bb09-4ad8-9441-c13fcdaab417",
+        "developmentCoordinates":{
+           "latitude":"51.432048",
+           "longitude":"-0.49351"
+        },
+        "developmentNoOfProperties":6
+     },
+     {
+        "developmentId":"f2ca3af2-e2f2-4eca-a3df-ef9854bb4569",
+        "developmentCoordinates":{
+           "latitude":"51.44213",
+           "longitude":"-0.54349"
+        },
+        "developmentNoOfProperties":4
+     },
+     {
+        "developmentId":"40967357-2a8e-4191-98ef-a9baf3eaaafa",
+        "developmentCoordinates":{
+           "latitude":"51.432208",
+           "longitude":"-0.51745"
+        },
+        "developmentNoOfProperties":3
+     }
+  ]
 }
